@@ -13,6 +13,9 @@ https://rainway.com/gaming/download/
 Moonlight Game Streaming Project:
 https://moonlight-stream.org/#
 
+MeshCentral:
+https://meshcentral.com/info/downloads.html
+
 Remotely:
 https://app.remotely.one/downloads
 GitHub https://github.com/immense/Remotely
