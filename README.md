@@ -16,6 +16,6 @@ https://moonlight-stream.org/#
 MeshCentral:
 https://meshcentral.com/info/downloads.html
 
-Remotely:
+(Not sure if it will work) Remotely:
 https://app.remotely.one/downloads
 GitHub https://github.com/immense/Remotely
